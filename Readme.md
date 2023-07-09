@@ -9,7 +9,7 @@
 Projeto desenvolvido como parte do 1° ano no curso de Desenvolvimento de Sistemas ministrado na Escola Técnica Estadual de Itaquaquecetuba. 
 
 ## Descrição
-<p align=>O projeto consiste no cálculo do percentual de gastos em diferentes segmentos de um escritório. Após o usuário inserir os valores gastos com materiais de informática, limpeza, papelaria, refeições, aluguel, água e energia,  o programa calcula o total e o percentual de gastos mensais em cada segmento e exibe os resultados em uma caixa de diálogo.</p>
+<p align=>Após o usuário inserir os valores gastos com materiais de informática, limpeza, papelaria, refeições, aluguel, água e energia,  o programa calcula o total e o percentual de gastos mensais em cada segmento e exibe os resultados em uma caixa de diálogo.</p>
 
 ### Ferramentas
 
